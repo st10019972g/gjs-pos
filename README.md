@@ -1,8 +1,8 @@
-\# README
+# README
 
 
 
-\*\*Simple Command Line POS System\*\*
+** Simple Command Line POS System **
 
 
 
@@ -16,17 +16,16 @@ The program simulates a small shop till and demonstrates fundamental programming
 
 
 
-\## Author
+## Author
 
-\*\*Guillaume Swanevelder\*\*
-
+** Guillaume Swanevelder **
 
 
 ---
 
 
 
-\## Project Description
+## Project Description
 
 This project is a terminal-based POS application developed as part of a programming fundamentals exercise.
 
@@ -36,17 +35,17 @@ The application allows a user to:
 
 
 
-\- Add products with prices
+- Add products with prices
 
-\- Remove products
+- Remove products
 
-\- Display all captured products
+- Display all captured products
 
-\- Calculate the running total
+- Calculate the running total
 
-\- Clear the screen between operations
+- Clear the screen between operations
 
-\- Continuously run until the user chooses to exit
+- Continuously run until the user chooses to exit
 
 
 
@@ -54,17 +53,17 @@ The goal of the project is to demonstrate understanding of:
 
 
 
-\- Functions
+- Functions
 
-\- Sentinel loops
+- Sentinel loops
 
-\- Lists and tuples
+- Lists and tuples
 
-\- Input validation
+- Input validation
 
-\- Iteration using for-each loops
+- Iteration using for-each loops
 
-\- Structured program design
+- Structured program design
 
 
 
@@ -72,7 +71,7 @@ The goal of the project is to demonstrate understanding of:
 
 
 
-\## Features
+## Features
 
 
 
@@ -100,7 +99,7 @@ The goal of the project is to demonstrate understanding of:
 
 
 
-\## Program Behaviour
+## Program Behaviour
 
 
 
@@ -130,13 +129,13 @@ After each action, the program pauses until the user presses Enter and then retu
 
 
 
-\## Requirements
+## Requirements
 
 
 
-\- Python 3.8 or newer
+- Python 3.8 or newer
 
-\- Windows CMD / PowerShell / Linux Terminal / macOS Terminal
+- Windows CMD / PowerShell / Linux Terminal / macOS Terminal
 
 
 
